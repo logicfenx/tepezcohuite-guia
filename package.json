@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/tepezcohuite-guia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a tepezcohuite-guia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/tepezcohuite-guia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/es/tepezcohuite/"
+    },
+    "homepage": "https://transpero.net/es/tepezcohuite/"
+}
